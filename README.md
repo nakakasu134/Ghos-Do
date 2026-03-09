@@ -17,3 +17,4 @@ Processingで制作した2Dアクションゲーム
 ![kiaihou](https://github.com/user-attachments/assets/509bfd97-12b4-4d4f-8c6c-91f946a6afd7)
 
 [完成物をダウンロード(Google Drive)](<https://drive.google.com/file/d/1f8yMQgg-zs2uXYiEI8FO2QHW6-SVC2Oi/view?usp=drive_link>)
+[キャプチャ動画(YouTube)](<https://youtu.be/tgNNBeQv5X0>)
