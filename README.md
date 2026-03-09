@@ -15,6 +15,7 @@ Processingで制作した2Dアクションゲーム
 　幽霊との衝突時や撃破時にゲーム内時間を瞬間的に止める「ヒットストップ」を導入することで、攻撃の重みを感じられるようになった。
 ### ・巨大気合砲の実装
 　HPやパワーの残量、接近している敵の数からプレイヤーが勝ちづらい状況になっている状況を判別し、その状況下において一定確率で巨大気合砲を放つようにすることで、危機的な状況を一気に覆すことができ、劇的なゲーム展開を演出できた。
+ 
 ![kiaihou](https://github.com/user-attachments/assets/509bfd97-12b4-4d4f-8c6c-91f946a6afd7)
 
 [完成物をダウンロード(Google Drive)](<https://drive.google.com/file/d/1f8yMQgg-zs2uXYiEI8FO2QHW6-SVC2Oi/view?usp=drive_link>)
