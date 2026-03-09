@@ -1,5 +1,6 @@
 # Ghos-Do
 Processingで制作した2Dアクションゲーム
+
 ![ghosdo_thumbnail](https://github.com/user-attachments/assets/814de4c4-c569-4ba0-8658-b77213506397)
 
 ### 作品形式：2Dアクションゲーム
